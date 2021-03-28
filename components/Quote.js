@@ -11,8 +11,8 @@ export default function Quote({ copy, cssProps }) {
         <Icon
           css={css`
             position: absolute;
-            top: -30px;
-            left: -80px;
+            top: -40px;
+            left: -40px;
             color: purple;
             font-size: 100px;
             z-index: 99;
@@ -24,8 +24,8 @@ export default function Quote({ copy, cssProps }) {
         <Icon
           css={css`
             position: absolute;
-            bottom: -30px;
-            right: -60px;
+            bottom: -40px;
+            right: -40px;
             color: purple;
             font-size: 100px;
             z-index: -99;
