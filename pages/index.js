@@ -68,7 +68,7 @@ export default function Home() {
                 font-style: italic;
                 max-width: 350px;
               `}
-              copy='Lorem ipsum dolor sit amet conse ctetur adipi sicing elit.'
+              copy='And you get a bone job!'
             />
           </section>
         </main>
